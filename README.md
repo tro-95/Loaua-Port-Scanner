@@ -1,7 +1,9 @@
 # Loaua-Port-Scanner
 Simple multi-thread C++ port scanner
 
-.\"Loaua PS".exe -h
+
+.\\"Loaua PS".exe -h
+
 Loaua network discovery tool
 
 Usage:
